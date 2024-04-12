@@ -143,4 +143,4 @@ DHMVIIDSMRAS5m_k30/
 zwalmbeek/
 
 # large datasets
-DEM_geotiff/*
+notebooks/data/DEM_geotiff*
